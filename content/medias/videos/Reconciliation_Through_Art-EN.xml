@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="4.958s" id="p0" end="8.916s">[Chants]</p>
+      <p begin="11.375s" id="p1" end="13.583s">Within our Nation,<br />the Mohawk Nation,</p>
+      <p begin="13.583s" id="p2" end="16.916s">there was<br />no language word for art.</p>
+      <p begin="18.375s" id="p3" end="20.333s">We called it beauty.</p>
+      <p begin="21.583s" id="p4" end="24.5s">It was a way of life.</p>
+      <p begin="24.5s" id="p5" end="27.875s">It was how we lived day to day,</p>
+      <p begin="27.875s" id="p6" end="30.958s">and the path,<br />the path of beauty.</p>
+      <p begin="34.083s" id="p7" end="35.375s">Cowboy Smithx.</p>
+      <p begin="35.375s" id="p8" end="35.958s">Good to see you.</p>
+      <p begin="35.958s" id="p9" end="37.291s">Good to see you again.</p>
+      <p begin="37.291s" id="p10" end="38.541s">I am glad you made it.</p>
+      <p begin="38.541s" id="p11" end="40.0s">Yeah, well,<br />I am really happy</p>
+      <p begin="40.0s" id="p12" end="42.75s">just to be here<br />on your land, you know.</p>
+      <p begin="42.75s" id="p13" end="43.791s">I have heard that before.</p>
+      <p begin="43.791s" id="p14" end="44.791s">[Laughter]</p>
+      <p begin="45.75s" id="p15" end="50.375s">Elder in the Making is kind<br />of a road trip story, actually,</p>
+      <p begin="50.375s" id="p16" end="54.166s">between a Chinese Canadian (me)<br />and Cowboy Smithx,</p>
+      <p begin="54.166s" id="p17" end="58.0s">as we go learning about<br />our shared history and our home.</p>
+      <p begin="58.0s" id="p18" end="61.25s">What started off as<br />kind of a small exploration</p>
+      <p begin="61.25s" id="p19" end="65.166s">grew into a huge exploration<br />of Indigenous culture</p>
+      <p begin="65.166s" id="p20" end="67.25s">and history<br />in Southern Alberta,</p>
+      <p begin="67.25s" id="p21" end="69.958s">on the traditional<br />territories of Blackfoot.</p>
+      <p begin="69.958s" id="p22" end="72.958s">Actually, you know,<br />shoot the beautiful landscapes</p>
+      <p begin="72.958s" id="p23" end="75.5s">that exist out there<br />and understand what they mean</p>
+      <p begin="75.5s" id="p24" end="77.375s">to the people of the land.</p>
+      <p begin="77.375s" id="p25" end="80.041s">I can't even say it was<br />so close to home; it is home.</p>
+      <p begin="80.666s" id="p26" end="83.833s">What is it that you would want<br />to tell us, the public servants,</p>
+      <p begin="83.833s" id="p27" end="86.541s">on how we should be building<br />better relationships</p>
+      <p begin="86.541s" id="p28" end="87.875s">with Indigenous peoples?</p>
+      <p begin="87.875s" id="p29" end="91.166s">Making a genuine<br />connection with individuals,</p>
+      <p begin="91.166s" id="p30" end="92.458s">specifically elders.</p>
+      <p begin="92.458s" id="p31" end="96.25s">You know, they carry the most<br />knowledge in our communities.</p>
+      <p begin="96.25s" id="p32" end="98.541s">It is really<br />a conversation about efforts.</p>
+      <p begin="98.541s" id="p33" end="101.5s">I mean, you have<br />got to go beyond what is</p>
+      <p begin="101.5s" id="p34" end="103.5s">in your policy here,<br />at the School.</p>
+      <p begin="103.5s" id="p35" end="105.583s">I mean, you have got<br />to make it a personal journey</p>
+      <p begin="105.583s" id="p36" end="108.625s">and not one that is part of<br />the institution you represent.</p>
+      <p begin="110.5s" id="p37" end="111.958s">You can't expect anything.</p>
+      <p begin="111.958s" id="p38" end="114.958s">You can't think there is<br />a certain level you are going</p>
+      <p begin="114.958s" id="p39" end="117.25s">to get to if you spend<br />four years with an elder.</p>
+      <p begin="117.25s" id="p40" end="118.333s">It doesn't work that way.</p>
+      <p begin="118.333s" id="p41" end="121.583s">Here is a dangerous conversation<br />about pan-Indianism.</p>
+      <p begin="121.583s" id="p42" end="122.666s">We are not all the same.</p>
+      <p begin="122.666s" id="p43" end="125.875s">We all have different<br />circumstances and connections</p>
+      <p begin="125.875s" id="p44" end="129.583s">because the land itself,<br />the physical geography,</p>
+      <p begin="129.583s" id="p45" end="133.0s">the geology, expresses itself<br />in different ways.</p>
+      <p begin="133.0s" id="p46" end="137.208s">Definitely, you have<br />to go above and beyond</p>
+      <p begin="137.208s" id="p47" end="142.666s">what siloed expectations you<br />may have which may be connoted</p>
+      <p begin="142.666s" id="p48" end="148.375s">to your work or connoted<br />to some sort of obligation.</p>
+      <p begin="148.375s" id="p49" end="150.708s">Even tokenism is always<br />kind of a dangerous thing</p>
+      <p begin="150.708s" id="p50" end="154.125s">to get involved with.</p>
+      <p begin="154.125s" id="p51" end="156.25s">Definitely make it genuine,<br />make it authentic,</p>
+      <p begin="156.25s" id="p52" end="158.166s">if you are going<br />to connect to somebody.</p>
+      <p begin="158.166s" id="p53" end="159.25s">Know your history.</p>
+      <p begin="159.25s" id="p54" end="161.75s">It is important to know<br />what you are actually saying</p>
+      <p begin="161.75s" id="p55" end="164.083s">before you say it.<br />Be considerate, right?</p>
+      <p begin="164.083s" id="p56" end="167.416s">So, when I hear things like,<br />'Well, we will let</p>
+      <p begin="167.416s" id="p57" end="169.75s">the First Nations do<br />their dance at the beginning,</p>
+      <p begin="169.75s" id="p58" end="172.375s">or we will let them...',<br />I mean, come on,</p>
+      <p begin="172.375s" id="p59" end="174.083s">we are done being let in.</p>
+      <p begin="174.083s" id="p60" end="178.541s">I mean, we are foreigners<br />in our own territory enough that</p>
+      <p begin="178.541s" id="p61" end="181.916s">we don't need to be let anywhere<br />within our own territories.</p>
+      <p begin="181.916s" id="p62" end="186.208s">So, when it comes<br />to the language of any type</p>
+      <p begin="186.208s" id="p63" end="188.041s">of circumstance,<br />it is important to be</p>
+      <p begin="188.041s" id="p64" end="189.875s">very aware<br />of what you are saying.</p>
+      <p begin="189.875s" id="p65" end="195.166s">Inclusion is a form<br />of othering and it is...</p>
+      <p begin="195.166s" id="p66" end="197.833s">You know,<br />I am saying to be respectful.</p>
+      <p begin="197.833s" id="p67" end="200.375s">We are seeing all these types of<br />stories like Elder in the Making</p>
+      <p begin="200.375s" id="p68" end="203.166s">and like the<br />Truth and Reconciliation Report,</p>
+      <p begin="203.166s" id="p69" end="206.166s">which I recommend<br />everybody read.</p>
+      <p begin="206.166s" id="p70" end="209.833s">These all help to start shaping<br />people's understanding</p>
+      <p begin="209.833s" id="p71" end="212.958s">of how we came to where we are.</p>
+      <p begin="213.958s" id="p72" end="216.708s">[Music]</p>
+      <p begin="218.166s" id="p73" end="220.208s">It is essentially a love story.</p>
+      <p begin="220.208s" id="p74" end="223.875s">It is about Annie,<br />who is a young, Indigenous girl</p>
+      <p begin="223.875s" id="p75" end="226.333s">who is not<br />in touch with her culture.</p>
+      <p begin="226.333s" id="p76" end="231.291s">She meets Gordon, who is<br />a survivor, and he teaches her</p>
+      <p begin="231.291s" id="p77" end="234.708s">about the Indians<br />residential schools story.</p>
+      <p begin="239.75s" id="p78" end="244.958s">I felt it was timely, and I felt<br />that art can bring about change.</p>
+      <p begin="244.958s" id="p79" end="247.041s">I want to make people aware.</p>
+      <p begin="250.541s" id="p80" end="252.5s">Truth brings reconciliation;</p>
+      <p begin="252.5s" id="p81" end="255.041s">reconciliation, I think,<br />can bring harmony;</p>
+      <p begin="255.041s" id="p82" end="257.375s">and harmony<br />can bring prosperity.</p>
+      <p begin="258.5s" id="p83" end="262.041s">Reconciliation is a word I have<br />only started using recently.</p>
+      <p begin="262.041s" id="p84" end="263.875s">The fact that we are<br />even having this conversation</p>
+      <p begin="263.875s" id="p85" end="266.958s">is quite inspiring.</p>
+      <p begin="266.958s" id="p86" end="269.208s">Hopeful is definitely<br />a part of that,</p>
+      <p begin="269.208s" id="p87" end="270.5s">but we have<br />been hopeful for too long.</p>
+      <p begin="270.5s" id="p88" end="275.416s">It is time to really take<br />agency over these conversations</p>
+      <p begin="275.416s" id="p89" end="277.208s">and bring them into fruition.</p>
+      <p begin="277.541s" id="p90" end="279.541s">We are not going to come<br />and say, 'Oh, it is time</p>
+      <p begin="279.541s" id="p91" end="281.541s">to come to Mohawk lands'.</p>
+      <p begin="281.541s" id="p92" end="282.75s">You know,<br />we are not going to do that.</p>
+      <p begin="282.75s" id="p93" end="284.541s">It is not our place.</p>
+      <p begin="284.541s" id="p94" end="288.041s">It is your place<br />to come and ask,</p>
+      <p begin="288.041s" id="p95" end="290.75s">and it is in the asking</p>
+      <p begin="290.75s" id="p96" end="293.083s">you will grow,</p>
+      <p begin="293.083s" id="p97" end="295.333s">learn.</p>
+      <p begin="295.333s" id="p98" end="300.708s">But more importantly,<br />love for ourselves and others.</p>
+      <p begin="301.625s" id="p99" end="304.375s">[Chants]</p>
+    </div>
+  </body>
+</tt>

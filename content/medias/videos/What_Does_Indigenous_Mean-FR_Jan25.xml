@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="9.0s" id="p0" end="12.5s">Si nous revenons à l'époque du premier contact</p>
+      <p begin="12.5s" id="p1" end="16.0s">et de la venue des Européens sur le territoire des Amériques,</p>
+      <p begin="16.0s" id="p2" end="19.95s">on a toujours eu cette idée</p>
+      <p begin="19.95s" id="p3" end="22.54s">(et, encore une fois, on parle de l'Indien imaginaire)</p>
+      <p begin="22.54s" id="p4" end="24.79s">de l'Indien créée par les Européens lors de leur venue</p>
+      <p begin="24.79s" id="p5" end="26.91s">sur le territoire des Amériques.</p>
+      <p begin="26.91s" id="p6" end="29.79s">Une partie de cette image, qui s'est ensuite transformée</p>
+      <p begin="29.79s" id="p7" end="32.41s">en stéréotypes au sujet de cet Indien imaginaire,</p>
+      <p begin="32.41s" id="p8" end="35.25s">voulait que les Indiens soient tous les mêmes.</p>
+      <p begin="35.25s" id="p9" end="39.25s">Cette idée universelle qu'ils ne font qu'un.</p>
+      <p begin="39.25s" id="p10" end="42.58s">Donc, tous les habitants de l'époque,</p>
+      <p begin="42.58s" id="p11" end="45.41s">que ce soit de l'Amérique du Nord, centrale ou du Sud,</p>
+      <p begin="45.41s" id="p12" end="48.45s">étaient désignés par un terme : Indiens.</p>
+      <p begin="48.45s" id="p13" end="54.08s">On a toujours tenté, dès ce premier contact,</p>
+      <p begin="54.08s" id="p14" end="57.33s">de trouver un terme, un hyperonyme,</p>
+      <p begin="57.33s" id="p15" end="59.7s">qui les décrit tous, ce qui a donné lieu</p>
+      <p begin="59.7s" id="p16" end="62.37s">à des niveaux de complexité insensés.</p>
+      <p begin="65.04s" id="p17" end="66.62s">Cela exige un niveau de compréhension,</p>
+      <p begin="66.62s" id="p18" end="69.25s">mais l'histoire...</p>
+      <p begin="69.25s" id="p19" end="72.0s">Encore une fois, c'est comme dire : « S'ils ne font qu'un,</p>
+      <p begin="72.0s" id="p20" end="73.66s">tous les habitants, de l'Angleterre au Japon,</p>
+      <p begin="73.66s" id="p21" end="75.54s">ne faisaient qu'un ». Ils disent : « C'est insensé.</p>
+      <p begin="75.54s" id="p22" end="77.25s">Tout le monde était différent, et il y avait</p>
+      <p begin="77.25s" id="p23" end="79.16s">des milliers de nations, de langues et de cultures. »</p>
+      <p begin="79.16s" id="p24" end="82.83s">Eh bien, oui. C'était vrai ici aussi.</p>
+      <p begin="82.83s" id="p25" end="86.95s">On a toujours tenté de trouver un seul terme,</p>
+      <p begin="86.95s" id="p26" end="89.25s">un seul hyperonyme, pour décrire tout le monde</p>
+      <p begin="89.25s" id="p27" end="91.58s">comme ne faisant qu'un.</p>
+      <p begin="91.58s" id="p28" end="93.91s">Au début des années 50, c'était « aborigène ».</p>
+      <p begin="93.91s" id="p29" end="96.41s">Avant, il y a eu « Indien ». Ensuite, c'était « aborigène ».</p>
+      <p begin="96.41s" id="p30" end="97.75s">Dans les pourparlers constitutionnels,</p>
+      <p begin="97.75s" id="p31" end="99.37s">c'est devenu « Autochtone ».</p>
+      <p begin="99.37s" id="p32" end="100.91s">Puis il y a « Indiens inscrits et non inscrits ».</p>
+      <p begin="100.91s" id="p33" end="102.33s">Et « Indiens visés par un traité ».</p>
+      <p begin="102.33s" id="p34" end="103.58s">« Premières Nations ».</p>
+      <p begin="103.58s" id="p35" end="106.999s">La recherche sur le plus récent hyperonyme</p>
+      <p begin="106.999s" id="p36" end="108.999s">a donc donné « autochtone ».</p>
+      <p begin="108.999s" id="p37" end="114.999s">Nous cherchons encore le terme qui décrit tout le monde,</p>
+      <p begin="114.999s" id="p38" end="116.999s">mais qui ne conviendra jamais.</p>
+      <p begin="116.999s" id="p39" end="120.999s">Il y a une juxtaposition entre « il n'y a pas de terme unique »</p>
+      <p begin="120.999s" id="p40" end="124.999s">et « nous tentons toujours de trouver un terme unique ».</p>
+      <p begin="124.999s" id="p41" end="127.999s">Cette lutte pour trouver le terme qui englobe</p>
+      <p begin="127.999s" id="p42" end="129.999s">tout se poursuivra probablement.</p>
+      <p begin="129.999s" id="p43" end="132.999s">La tendance inverse est d'identifier les personnes</p>
+      <p begin="132.999s" id="p44" end="134.999s">par leurs nations.</p>
+      <p begin="134.999s" id="p45" end="138.999s">Donc, que vous soyez Anishinaabe, Haudenosaunee,</p>
+      <p begin="138.999s" id="p46" end="141.999s">Omgohomi, peu importe la façon de procéder,</p>
+      <p begin="141.999s" id="p47" end="143.999s">il faut utiliser la terminologie appropriée, selon moi,</p>
+      <p begin="143.999s" id="p48" end="148.999s">pour identifier et accueillir ou reconnaître les personnes</p>
+      <p begin="148.999s" id="p49" end="152.0s">de la nation dont elles font partie, plutôt que</p>
+      <p begin="152.0s" id="p50" end="154.999s">de tenter de trouver un terme qui décrit tout le monde.</p>
+      <p begin="154.999s" id="p51" end="157.999s">Nous avons toujours essayé de faire correspondre une grande</p>
+      <p begin="157.999s" id="p52" end="159.167s">quantité de renseignements à un terme précis... c'est comme</p>
+      <p begin="159.167s" id="p53" end="160.999s">essayer d'enfoncer une cheville carrée dans un trou rond.</p>
+      <p begin="160.999s" id="p54" end="161.999s">Ça n'a jamais fonctionné.</p>
+      <p begin="161.999s" id="p55" end="163.667s">Et ça ne fonctionnera probablement jamais.</p>
+      <p begin="163.667s" id="p56" end="165.999s">Cela ne veut pas dire qu'il faut cesser les recherches.</p>
+      <p begin="165.999s" id="p57" end="168.501s">Mais comme je l'ai dit, la terminologie la plus appropriée,</p>
+      <p begin="168.501s" id="p58" end="169.999s">selon moi, est celle qui reconnaît la nation</p>
+      <p begin="169.999s" id="p59" end="171.999s">ou le peuple dont la personne fait partie.</p>
+      <p begin="171.999s" id="p60" end="174.667s">On est ainsi habituellement en terrain plus sûr.</p>
+      <p begin="175.334s" id="p61" end="177.999s">Plusieurs m'ont posé cette question après l'entrée</p>
+      <p begin="177.999s" id="p62" end="180.501s">en fonction du nouveau gouvernement : « Que veut dire</p>
+      <p begin="180.501s" id="p63" end="183.999s">le mot "autochtone" et s'agit-il du terme à employer désormais? »</p>
+      <p begin="183.999s" id="p64" end="187.0s">Les gens veulent s'exprimer correctement.</p>
+      <p begin="187.0s" id="p65" end="190.334s">Je leur ai expliqué que ce terme n'inclut pas nécessairement</p>
+      <p begin="190.334s" id="p66" end="193.999s">les Inuits et d'autres groupes.</p>
+      <p begin="193.999s" id="p67" end="199.999s">Donc, lorsque je me présente, je m'identifie comme Algonquine.</p>
+      <p begin="199.999s" id="p68" end="202.999s">Je suis membre de la Nation algonquine.</p>
+      <p begin="202.999s" id="p69" end="207.999s">C'est ainsi que je choisis de me présenter, mais en fait,</p>
+      <p begin="207.999s" id="p70" end="215.667s">je ne pense pas vraiment à la façon dont on me décrit.</p>
+      <p begin="215.667s" id="p71" end="220.667s">Première Nation, indigène, Indienne,</p>
+      <p begin="220.667s" id="p72" end="223.999s">Indienne inscrite, toutes ces réponses...</p>
+      <p begin="223.999s" id="p73" end="226.999s">on m'a décrite par toutes ces réponses.</p>
+      <p begin="226.999s" id="p74" end="230.999s">J'ai suggéré aux personnes qui s'inquiétaient vraiment</p>
+      <p begin="230.999s" id="p75" end="235.999s">à ce sujet de ne pas trop s'en faire, car, bien franchement,</p>
+      <p begin="235.999s" id="p76" end="240.667s">à l'échelle des collectivités, ce n'est pas un problème.</p>
+      <p begin="240.667s" id="p77" end="243.167s">C'est un problème pour ceux qui veulent être</p>
+      <p begin="243.167s" id="p78" end="246.999s">trop politiquement corrects, et je crois que récemment,</p>
+      <p begin="246.999s" id="p79" end="249.999s">le terme « autochtone » a permis de mentionner l'importance</p>
+      <p begin="249.999s" id="p80" end="254.667s">de la DDPA des Nations Unies, la relation internationale</p>
+      <p begin="254.667s" id="p81" end="256.999s">dont nous avons fait la promotion sur la scène mondiale.</p>
+      <p begin="256.999s" id="p82" end="258.999s">Ce terme convient pour l'instant,</p>
+      <p begin="258.999s" id="p83" end="261.999s">mais qui sait comment on nous appellera dans 20 ans?</p>
+      <p begin="261.999s" id="p84" end="262.834s">[Rires]</p>
+    </div>
+  </body>
+</tt>

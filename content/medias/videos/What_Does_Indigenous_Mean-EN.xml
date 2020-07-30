@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="9.0s" id="p0" end="12.5s">If we go back<br />to the time of contact</p>
+      <p begin="12.5s" id="p1" end="16.0s">and Europeans<br />coming over to the Americas,</p>
+      <p begin="16.0s" id="p2" end="19.958s">there has always<br />been this idea of</p>
+      <p begin="19.958s" id="p3" end="22.541s">(and again, it is referred<br />to as the imaginary Indian)</p>
+      <p begin="22.541s" id="p4" end="24.791s">the Indian that<br />was created by the Europeans</p>
+      <p begin="24.791s" id="p5" end="26.916s">when they<br />came over to the Americas.</p>
+      <p begin="26.916s" id="p6" end="30.291s">Part of that imagery, which<br />later turned into stereotypes,</p>
+      <p begin="30.291s" id="p7" end="32.875s">part of that imaginary<br />Indian was the idea</p>
+      <p begin="32.875s" id="p8" end="35.25s">that Indians were all the same.</p>
+      <p begin="35.25s" id="p9" end="39.25s">This universal idea<br />that there is a one.</p>
+      <p begin="39.25s" id="p10" end="43.583s">So, everybody from North<br />to Central to South America</p>
+      <p begin="43.583s" id="p11" end="47.833s">who was there at the time<br />got one term: Indian.</p>
+      <p begin="47.833s" id="p12" end="54.25s">There has always been a push<br />from that very first contact to</p>
+      <p begin="54.25s" id="p13" end="58.958s">try to find a term, one umbrella<br />term, that describes all,</p>
+      <p begin="58.958s" id="p14" end="61.708s">which has led to<br />incredible layers of complexity.</p>
+      <p begin="64.958s" id="p15" end="69.083s">It requires a depth<br />of understanding, but history...</p>
+      <p begin="69.083s" id="p16" end="71.375s">Again, that is like trying<br />to say, 'Well, if they were</p>
+      <p begin="71.375s" id="p17" end="74.625s">all one, then I guess everybody<br />from England to Japan was one.'</p>
+      <p begin="74.625s" id="p18" end="76.708s">They say, 'That is incredible.<br />Everybody was different and</p>
+      <p begin="76.708s" id="p19" end="79.125s">there were thousands of nations,<br />languages and cultures.'</p>
+      <p begin="79.125s" id="p20" end="82.041s">Well, yes.<br />It was true here too.</p>
+      <p begin="82.041s" id="p21" end="86.958s">So the quest has always been<br />to find a singular term,</p>
+      <p begin="86.958s" id="p22" end="91.541s">a singular umbrella term,<br />that describes all as one.</p>
+      <p begin="91.541s" id="p23" end="93.833s">In the early 1950s,<br />it was Native.</p>
+      <p begin="93.833s" id="p24" end="96.541s">Well, first it was Indian.<br />Then it was Native.</p>
+      <p begin="96.541s" id="p25" end="99.291s">In the constitutional talks<br />it became Aboriginal.</p>
+      <p begin="99.291s" id="p26" end="101.333s">Then there is status<br />and non-status.</p>
+      <p begin="101.333s" id="p27" end="102.291s">And treaty.</p>
+      <p begin="102.291s" id="p28" end="104.166s">First Nation.</p>
+      <p begin="104.166s" id="p29" end="107.0s">So that search<br />for the latest umbrella term</p>
+      <p begin="107.0s" id="p30" end="108.75s">is Indigenous.</p>
+      <p begin="108.75s" id="p31" end="111.583s">Indigenous meaning<br />that we are still searching for</p>
+      <p begin="111.583s" id="p32" end="116.583s">that one term that describes<br />all, but they will never fit.</p>
+      <p begin="116.583s" id="p33" end="119.333s">We have that sort of<br />juxtaposition against there is</p>
+      <p begin="119.333s" id="p34" end="121.666s">no one-size-fits-all,<br />and we always try to find</p>
+      <p begin="121.666s" id="p35" end="124.166s">one size that fits all.</p>
+      <p begin="124.166s" id="p36" end="127.333s">So the struggle to find<br />that one all-encompassing term</p>
+      <p begin="127.333s" id="p37" end="129.291s">will probably continue.</p>
+      <p begin="129.291s" id="p38" end="133.083s">The counter-trend to that<br />is to identify people</p>
+      <p begin="133.083s" id="p39" end="134.416s">by their nations.</p>
+      <p begin="134.416s" id="p40" end="139.833s">So whether you are Anishinaabe,<br />Haudenosaunee, Omgohomi,</p>
+      <p begin="139.833s" id="p41" end="142.125s">however you want to do it,<br />the correct terminology,</p>
+      <p begin="142.125s" id="p42" end="146.208s">from my perspective,<br />is to identify and to greet</p>
+      <p begin="146.208s" id="p43" end="151.375s">or acknowledge people from<br />the nation that they come from,</p>
+      <p begin="151.375s" id="p44" end="154.625s">as opposed to try to find<br />one term that describes all.</p>
+      <p begin="154.625s" id="p45" end="157.541s">We have always tried<br />to shoehorn a very large piece</p>
+      <p begin="157.541s" id="p46" end="159.625s">of information<br />into one particular...</p>
+      <p begin="159.625s" id="p47" end="161.666s">Square peg, round hole.<br />It has never worked.</p>
+      <p begin="161.666s" id="p48" end="163.291s">It probably never will work.</p>
+      <p begin="163.291s" id="p49" end="165.75s">It doesn't mean<br />we stop that search.</p>
+      <p begin="165.75s" id="p50" end="168.208s">But I said the more correct<br />terminology from my perspective</p>
+      <p begin="168.208s" id="p51" end="170.166s">is one that acknowledges<br />the nation or the people</p>
+      <p begin="170.166s" id="p52" end="171.791s">that they come from.</p>
+      <p begin="171.791s" id="p53" end="174.125s">That usually<br />keeps you on safer territory.</p>
+      <p begin="175.041s" id="p54" end="176.791s">A lot of people<br />asked me this question</p>
+      <p begin="176.791s" id="p55" end="179.541s">after the<br />new government came in.</p>
+      <p begin="179.541s" id="p56" end="183.666s">What is Indigenous, and is that<br />the appropriate term now?</p>
+      <p begin="183.666s" id="p57" end="187.041s">People want to<br />be correct and so on.</p>
+      <p begin="187.041s" id="p58" end="190.875s">I explained that it doesn't<br />necessarily include the Inuit</p>
+      <p begin="190.875s" id="p59" end="193.791s">and other groups and so on.</p>
+      <p begin="193.791s" id="p60" end="199.916s">So, when I introduce myself,<br />I identify myself as Algonquin.</p>
+      <p begin="199.916s" id="p61" end="202.833s">I am a member<br />of the Algonquin Nation.</p>
+      <p begin="202.833s" id="p62" end="207.208s">That is how I choose<br />to introduce myself,</p>
+      <p begin="207.208s" id="p63" end="212.875s">but I don't put a lot of thought<br />or much care, actually,</p>
+      <p begin="212.875s" id="p64" end="215.291s">into whatever I am described as.</p>
+      <p begin="215.291s" id="p65" end="222.166s">First Nation,<br />Indigenous, Indian, status,</p>
+      <p begin="222.166s" id="p66" end="223.791s">all of the above...</p>
+      <p begin="223.791s" id="p67" end="226.291s">I have been called<br />all of the above.</p>
+      <p begin="226.291s" id="p68" end="230.875s">What I suggested to people<br />who got really wrapped up</p>
+      <p begin="230.875s" id="p69" end="234.916s">in this is to not err<br />too much into that because,</p>
+      <p begin="234.916s" id="p70" end="240.791s">quite frankly, at the community<br />level, this is not a big deal.</p>
+      <p begin="240.791s" id="p71" end="243.125s">It is a big deal<br />for those who want to be</p>
+      <p begin="243.125s" id="p72" end="246.458s">overly politically-correct,<br />and I think recently</p>
+      <p begin="246.458s" id="p73" end="252.0s">Indigenous has exemplified<br />the importance of the U.N. DRIP,</p>
+      <p begin="252.0s" id="p74" end="255.583s">the international relationship<br />that we have promoted</p>
+      <p begin="255.583s" id="p75" end="258.5s">on the world stage.<br />So it has its time,</p>
+      <p begin="258.5s" id="p76" end="261.083s">but who knows 20 years from now<br />what we will be called?</p>
+      <p begin="261.083s" id="p77" end="262.125s">[Laughter]</p>
+    </div>
+  </body>
+</tt>

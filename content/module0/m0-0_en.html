@@ -1,0 +1,57 @@
+<div class="col-md-12 LOM-frame converted-page" id="LOMfr_1" data-converted-page="m98-0">
+    <section class="LOM-element" data-lom-element="text" id="LOM_el_1">
+        <div class="LOM-editable" id="LOM_edit_1">
+            <h1>Welcome to your learning journey!</h1>
+        </div>
+    </section>
+</div>
+<div class="col-md-6 LOM-frame" id="LOMfr_2">
+    <section class="LOM-element" data-lom-element="text" id="LOM_el_2">
+        <div class="LOM-editable" id="LOM_edit_2">
+            <p>First, we would like to acknowledge the land we are on. Wherever you are taking this course, the first lesson is to take a moment and think about the land around you. Acknowledge this land and realize that Indigenous communities have been living on it since time immemorial.</p>
+        </div>
+    </section>
+    <section class="LOM-element" data-lom-element="html" id="LOM_el_5">
+        <!-- This is a custom built element -->
+
+        <div class="LOM-editable custom-object" id="LOM-edit-1">
+            <label for="ackd" class="acknowledge">
+                <section class="LOM-element" data-lom-element="image" id="LOM_el_3"><img id="wordTree" src="content/medias/images/wordTree_BW.png" alt="a tree shaped word cloud with Indigenous greetings" class="img-responsive"></section>
+                <br>
+                <span tabindex="-1">
+                <input id="ackd" type="checkbox" class="wb-inv" tabindex="0">
+                I acknowledge this land </span> </label>
+        </div>
+    </section>
+</div>
+<section class="col-md-12 LOM-frame" id="LOMfr_3">
+    <appart class="LOM-element right-box icon journal" data-lom-element="text" id="LOM_el_6">
+        <div class="LOM-editable" id="LOM-edit-2">
+            <h2>Self-reflection:<br> <a class="external" data-ext="ext-wb-1" href="#">What land are you on? Check it out</a>!</h2>
+        </div>
+    </appart>
+</section>
+<section class="col-md-12 LOM-frame" id="LOMfr_4">
+    <section class="LOM-element" data-lom-element="html" id="LOM_el_7">
+        <!-- This is a custom built element -->
+
+        <div class="LOM-editable custom-object" id="LOM-edit-3">
+            <script>
+
+                $("#ackd").on("change", function() { $("#wordTree").attr('src', "content/medias/images/wordTree.png") });
+                /*$(".acknowledge span").keypress(function(evt){
+                    if(evt.keyCode == 13){
+                        $("#ackd").change();
+                    }
+                });*/
+                $("#ackd").focus(function() {
+                    $(".acknowledge span").addClass("hovered");
+                });
+                $("#ackd").blur(function() {
+                    $(".acknowledge span").removeClass("hovered");
+                });
+
+            </script>
+        </div>
+    </section>
+</section>
